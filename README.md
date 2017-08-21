@@ -8,6 +8,6 @@ The detailed description of the algorithm is in the paper "Unsupervised Online A
 
 More information about the projet: http://www.sussex.ac.uk/strc/research/wearable/research-ll
 
-Instrucction to run the model are included in the JSI-release notebook.
+Instructions to run the model are included in the JSI-release notebook.
 
 [1] H. Gjoreski, D. Roggen. Unsupervised Online Activity Discovery Using Temporal Behaviour Assumption. In: 21th International Symposium Wearable Computers (ISWC) 2017, 11-15 September 2017, Maui, Hawaii, USA
