@@ -28,7 +28,7 @@ def kernel_poly(x, y, a=1.0, b=1.0, p=2.0):
     return (a * scipy.dot(x, y) + b) ** p
 
 
-#bigger sigma closer to Euclidian
+#bigger sigma closer to Euclidian 
 def kernel_gauss(x, y, sigma= 0.1):
     v = x - y
     l = math.sqrt(scipy.square(v).sum())
