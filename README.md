@@ -8,7 +8,7 @@ The detailed description of the algorithm is in the paper "Unsupervised Online A
 
 More information about the projet: http://www.sussex.ac.uk/strc/research/wearable/research-ll
 
-Instructions on how to run the model are included in the <b>JSI-release notebook</b>. It is an  example code run on a Subject 1 from the JSI-ADL dataset: https://github.com/sussexwearlab/OpenEnded/blob/master/JSI-release.ipynb
+<li>Instructions on how to run the model are included in the <b>JSI-release notebook</b>. It is an  example code run on a Subject 1 from the JSI-ADL dataset: https://github.com/sussexwearlab/OpenEnded/blob/master/JSI-release.ipynb</li>
 
 The algorithm that performs the clustering is in a separate Python file, which is called in the <b>JSI-release notebook</b>: <b>"Online_temporal_clustering_release.py"</b>.
 
