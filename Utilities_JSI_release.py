@@ -1,3 +1,5 @@
+# install munkres module for the calculation of the Hungarian matrix: http://software.clapper.org/munkres/#installing
+# pip install munkres
 from munkres import Munkres
 import numpy as np
 import re
