@@ -18,5 +18,5 @@ The folder <b>"data_JSI"</b> contains the feature vectors from the 10 subjects f
 
 <b>"Preprocessing"</b> folder contains an example on how to create the feature vectors from an example raw data file. 
 
-<b>Please cite:</b>
+<b>Please cite:</b><br>
 [1] H. Gjoreski, D. Roggen. Unsupervised Online Activity Discovery Using Temporal Behaviour Assumption. In: 21th International Symposium Wearable Computers (ISWC) 2017, 11-15 September 2017, Maui, Hawaii, USA
