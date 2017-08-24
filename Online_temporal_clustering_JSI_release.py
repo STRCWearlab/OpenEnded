@@ -47,14 +47,14 @@ def kernel_dist(x, y):
 
 kernel = kernel_normalise(kernel_gauss)
 
-# the time past which you cannot add an instance to the cluster... activity frequency?
+# the time past which you cannot add an instance to the cluster
 deltaT = 5 #bigger number bigger clusters, tends to combine small clusters with big ones
 
 # if the cluster is older than memoryDelta, then remove it from the currentClusters and put it in the allClsuters list
 memoryDelta = deltaT + 1  #bigger number smaler clusters, lots of empty space... only sure clusters
 
 #the number of current clusters... pool of clusters
-num_clusterss = 4 #bigger number scattered clusters, lots of empty space... if you increase this, also increase the memory parameters
+num_clusterss = 3 #bigger number scattered clusters, lots of empty space... if you increase this, also increase the memory parameters
 threshold_cluster_size = 10
 
 
