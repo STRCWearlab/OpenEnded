@@ -21,6 +21,6 @@ More information about the projet: http://www.sussex.ac.uk/strc/research/wearabl
 <b>Please cite:</b><br>
 [1] H. Gjoreski, D. Roggen. Unsupervised Online Activity Discovery Using Temporal Behaviour Assumption. In: 21th International Symposium Wearable Computers (ISWC) 2017, 11-15 September 2017, Maui, Hawaii, USA
 
-Comments regarding the dependencies and modules:
+<br>Comments regarding the dependencies and modules:
 - Anaconda and Python 2.7 distribution is used
 - Munkres module should be additionally installed, wich is not in Anaconda: http://software.clapper.org/munkres/#installing
